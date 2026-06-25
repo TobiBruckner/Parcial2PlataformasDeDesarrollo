@@ -1,7 +1,7 @@
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
-import Login from './Login';
-import Register from './Register';
-import Search from './Search';
+import Login from './login';
+import Register from './register';
+import Search from './search';
 import Biblioteca from './biblioteca.jsx';
 
 
